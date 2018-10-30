@@ -15,4 +15,4 @@ I want to get into the habit of writing.  Perhaps others will find what I write 
 
 ### Contact
 
-You can contact me via [twitter](https://twitter.com/_kulturo_), and I'll set up an email address too at some point.  I'll also set up comments on hear sometime... maybe - it depends ;)
+You can contact me via [mastodon](https://scifi.fyi/@kulturo) or   [twitter](https://twitter.com/_kulturo_), and I'll set up an email address too at some point.  I'll also set up comments on here sometime... maybe - it depends ;)
